@@ -1,0 +1,1 @@
+Try-Catch blokları içerisinde konsoldan girilen verinin doğru tipte girip girilmediğini kontrol eder.
